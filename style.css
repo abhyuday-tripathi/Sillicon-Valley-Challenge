@@ -1,0 +1,21 @@
+.picture img {
+	margin: 20px auto;
+}
+
+.picture {
+	margin-top: 0px;
+	background-color: #1a202c;
+}
+
+body {
+	background-color: #1a202c;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+header {
+	position: fixed;
+	width: 100%;
+}
